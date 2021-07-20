@@ -9,4 +9,4 @@ A small assignment to run basic sign wave program using OpenGL on CPU and GPU to
 
 ## Build and Run Program
 
-find command to run the program in build.bat file above , Press G/C to check the difference.
+find commands to run the program in build.bat file above , Press G/C to check the difference.
