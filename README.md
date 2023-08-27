@@ -1,5 +1,5 @@
 # OpenGL-CUDA-interoperability
-A small assignment to run basic sign wave program using OpenGL on CPU and GPU to observe the performance difference.
+A small assignment to run basic sin wave program using OpenGL on CPU and GPU to observe the performance difference.
 
 ##  Requirements
 
